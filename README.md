@@ -11,8 +11,9 @@ Passionate about technology and highly interested in the backend and fullstack d
 
 ## Linguagens que estudo/Languages I'm studing:
 - **C**
+- **C++**
 - **Python**
-- **Javascript**
+- **Javascript(node.js focused)**
 - **HTML**
 - **SQL**
 - **Git**

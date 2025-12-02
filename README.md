@@ -21,4 +21,4 @@ Passionate about technology and highly interested in the backend and fullstack d
 
 ## Contato/Contact:
 - Email: fernando@macedo09@hotmail.com
-- LinkedIn: https://linkedin.com/in/seuusuario
+- LinkedIn: www.linkedin.com/in/fernando-macedo-da-costa-3b7123334

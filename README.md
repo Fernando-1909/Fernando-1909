@@ -1,5 +1,5 @@
-# Olá, eu sou o Fernando :)
-# Hello, my name is Fernando :)
+<img width="1871" height="507" alt="image" src="https://github.com/user-attachments/assets/473a81c7-0f9a-446a-b9fc-0b0f271c8d67" />
+
 
 ## Estudante de Ciência da Computação — UERN
 ## Computer Science student - UERN

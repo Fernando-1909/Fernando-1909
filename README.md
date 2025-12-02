@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Fernando :)
+# Hello, my name is Fernando :)
 
-<!--
-**Fernando-1909/Fernando-1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante de Ciência da Computação — UERN
+## Computer Science student - UERN
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia e com bastante interesse na área de desenvolvimento backend e fullstack. Sempre pronto para aprender novas coisas relacionada a programação. Sempre fazendo projetos simples e bobos para aperfeiçoar minhas habilidades, e até mesmo projetos mais sérios e maiores para colocá-las em prática.
+Passionate about technology and highly interested in the backend and fullstack development field. Always ready to learn new things related to programming. Always doing some silly simple projects to hone my skills, and even doing bigger and more serious project to put those skills into test.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Linguagens que estudo/Languages I'm studing:
+- **C**
+- **Python**
+- **Javascript**
+- **HTML**
+- **SQL**
+- **Git**
+
+---
+
+## Contato/Contact:
+- Email: fernando@macedo09@hotmail.com
+- LinkedIn: https://linkedin.com/in/seuusuario

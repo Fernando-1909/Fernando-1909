@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2683AC&width=435&lines=Hello%2C+im+Fernando)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2683AC&width=435&lines=Hello%2C+im+Fernando" alt="Typing SVG" />
+  </a>
+</div>
 
 ## Estudante de Ciência da Computação — UERN
 ## Computer Science student - UERN

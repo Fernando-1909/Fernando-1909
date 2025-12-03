@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fernando-1909/Fernando-1909/main/typewriter.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Fernando-1909/Fernando-1909/main/typewriter.gif" width="2000">
 </p>
 
 

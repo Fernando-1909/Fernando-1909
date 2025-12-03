@@ -1,4 +1,7 @@
-![gif](https://raw.githubusercontent.com/Fernando-1909/Fernando-1909/main/typewriter.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fernando-1909/Fernando-1909/main/typewriter.gif" width="200">
+</p>
+
 
 <img width="1871" height="507" alt="image" src="https://github.com/user-attachments/assets/473a81c7-0f9a-446a-b9fc-0b0f271c8d67" />
 
